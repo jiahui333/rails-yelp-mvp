@@ -1,6 +1,4 @@
 @import "bootstrap/scss/bootstrap";
 
-
-.restaurants{
-  text-align: center;
-}
+@import "restaurants";
+@import "review"
